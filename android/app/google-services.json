@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "663917359055",
+    "project_id": "flutter-firebase-e4ce5",
+    "storage_bucket": "flutter-firebase-e4ce5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663917359055:android:5a28afc4cd4765340aacba",
+        "android_client_info": {
+          "package_name": "stephenoutlook.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663917359055-ep86j3nrma490vc2o2v8c7c360ilqqqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "stephenoutlook.flutter_firebase",
+            "certificate_hash": "97e611baad89d6b877866251a3cbc965f992e46e"
+          }
+        },
+        {
+          "client_id": "663917359055-mlin7phl1entcj4f6aloj8kugd7549jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXMaw20uNr9uNVK_z3b0fL-S-2OA_iZx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663917359055-mlin7phl1entcj4f6aloj8kugd7549jv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "663917359055-grb1i3hvr391og49l1kfmrt865r75r1j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "stephenoutlook.flutterFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
